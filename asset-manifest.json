@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/VitalijKaziucic/robofriends.git/static/css/main.8b26fe94.css",
+    "main.js": "/VitalijKaziucic/robofriends.git/static/js/main.49ac9adb.js",
+    "static/js/453.eceb90f9.chunk.js": "/VitalijKaziucic/robofriends.git/static/js/453.eceb90f9.chunk.js",
+    "static/media/SEGA.woff": "/VitalijKaziucic/robofriends.git/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/VitalijKaziucic/robofriends.git/index.html",
+    "main.8b26fe94.css.map": "/VitalijKaziucic/robofriends.git/static/css/main.8b26fe94.css.map",
+    "main.49ac9adb.js.map": "/VitalijKaziucic/robofriends.git/static/js/main.49ac9adb.js.map",
+    "453.eceb90f9.chunk.js.map": "/VitalijKaziucic/robofriends.git/static/js/453.eceb90f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b26fe94.css",
+    "static/js/main.49ac9adb.js"
+  ]
+}
